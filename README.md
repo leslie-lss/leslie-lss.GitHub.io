@@ -1,2 +1,2 @@
-# leslie-lss.GitHub.io
+# leslie-lss.github.io
 blog
